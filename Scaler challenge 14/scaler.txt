@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Thanks for opportunityThis is new line in file
-=======
-This is challenge 14 scaler opensource challenge
->>>>>>> branch-1
+My name is Anish
